@@ -18,7 +18,6 @@ class UsersController < ApplicationController
     @user = User.find(params[:id])
   end
 
-<<<<<<< HEAD
   def update
     @user = User.find(params[:id])
     if @user.update(user_params)
@@ -28,8 +27,6 @@ class UsersController < ApplicationController
     end
   end
 
-=======
->>>>>>> 84632d144915c1772222b606a4aed943b206b1c9
   private
 
   def user_params
