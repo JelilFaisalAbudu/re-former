@@ -41,11 +41,6 @@ Style/DefWithParentheses:
 Style/FrozenStringLiteralComment:
   EnforcedStyle: never
 
-Style/ExponentialNotation:
-  Enabled: false
-Layout/SpaceAroundMethodCallOperator:
-  Enabled: false
-
 Layout/HashAlignment:
   EnforcedColonStyle: key
 Layout/ExtraSpacing:
