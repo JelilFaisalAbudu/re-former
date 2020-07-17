@@ -1,11 +1,11 @@
-current directory: /home/jelil/Documents/code/Microverse-Projects/ruby/rails/re-former/vendor/bundle/ruby/2.7.0/gems/sassc-2.4.0/ext
-/home/jelil/.rbenv/versions/2.7.0/bin/ruby -I /home/jelil/.rbenv/versions/2.7.0/lib/ruby/2.7.0 -r ./siteconf20200716-26465-95n4j0.rb extconf.rb
+current directory: /home/jelil/Documents/code/personal-projects/ruby/rails/re-former/vendor/bundle/ruby/2.7.0/gems/sassc-2.4.0/ext
+/home/jelil/.rbenv/versions/2.7.0/bin/ruby -I /home/jelil/.rbenv/versions/2.7.0/lib/ruby/2.7.0 -r ./siteconf20200715-17782-4uyy46.rb extconf.rb
 creating Makefile
 
-current directory: /home/jelil/Documents/code/Microverse-Projects/ruby/rails/re-former/vendor/bundle/ruby/2.7.0/gems/sassc-2.4.0/ext
+current directory: /home/jelil/Documents/code/personal-projects/ruby/rails/re-former/vendor/bundle/ruby/2.7.0/gems/sassc-2.4.0/ext
 make "DESTDIR=" clean
 
-current directory: /home/jelil/Documents/code/Microverse-Projects/ruby/rails/re-former/vendor/bundle/ruby/2.7.0/gems/sassc-2.4.0/ext
+current directory: /home/jelil/Documents/code/personal-projects/ruby/rails/re-former/vendor/bundle/ruby/2.7.0/gems/sassc-2.4.0/ext
 make "DESTDIR="
 compiling ./libsass/src/ast.cpp
 compiling ./libsass/src/ast2c.cpp
@@ -75,6 +75,6 @@ compiling ./libsass/src/util_string.cpp
 compiling ./libsass/src/values.cpp
 linking shared-object sassc/libsass.so
 
-current directory: /home/jelil/Documents/code/Microverse-Projects/ruby/rails/re-former/vendor/bundle/ruby/2.7.0/gems/sassc-2.4.0/ext
+current directory: /home/jelil/Documents/code/personal-projects/ruby/rails/re-former/vendor/bundle/ruby/2.7.0/gems/sassc-2.4.0/ext
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 libsass.so ./.gem.20200716-26465-oc0u3b/sassc
+/usr/bin/install -c -m 0755 libsass.so ./.gem.20200715-17782-vxssm7/sassc

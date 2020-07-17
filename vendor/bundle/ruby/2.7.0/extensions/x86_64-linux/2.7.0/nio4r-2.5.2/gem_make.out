@@ -1,5 +1,5 @@
-current directory: /home/jelil/Documents/code/Microverse-Projects/ruby/rails/re-former/vendor/bundle/ruby/2.7.0/gems/nio4r-2.5.2/ext/nio4r
-/home/jelil/.rbenv/versions/2.7.0/bin/ruby -I /home/jelil/.rbenv/versions/2.7.0/lib/ruby/2.7.0 -r ./siteconf20200716-26465-puoks2.rb extconf.rb
+current directory: /home/jelil/Documents/code/personal-projects/ruby/rails/re-former/vendor/bundle/ruby/2.7.0/gems/nio4r-2.5.2/ext/nio4r
+/home/jelil/.rbenv/versions/2.7.0/bin/ruby -I /home/jelil/.rbenv/versions/2.7.0/lib/ruby/2.7.0 -r ./siteconf20200715-17782-loqxmy.rb extconf.rb
 checking for unistd.h... yes
 checking for linux/aio_abi.h... yes
 checking for sys/select.h... yes
@@ -10,10 +10,10 @@ checking for port_event_t in port.h... no
 checking for sys/resource.h... yes
 creating Makefile
 
-current directory: /home/jelil/Documents/code/Microverse-Projects/ruby/rails/re-former/vendor/bundle/ruby/2.7.0/gems/nio4r-2.5.2/ext/nio4r
+current directory: /home/jelil/Documents/code/personal-projects/ruby/rails/re-former/vendor/bundle/ruby/2.7.0/gems/nio4r-2.5.2/ext/nio4r
 make "DESTDIR=" clean
 
-current directory: /home/jelil/Documents/code/Microverse-Projects/ruby/rails/re-former/vendor/bundle/ruby/2.7.0/gems/nio4r-2.5.2/ext/nio4r
+current directory: /home/jelil/Documents/code/personal-projects/ruby/rails/re-former/vendor/bundle/ruby/2.7.0/gems/nio4r-2.5.2/ext/nio4r
 make "DESTDIR="
 compiling bytebuffer.c
 compiling monitor.c
@@ -96,6 +96,6 @@ cc1: warning: unrecognized command line option ‘-Wno-constant-logical-operand�
 cc1: warning: unrecognized command line option ‘-Wno-cast-function-type’
 linking shared-object nio4r_ext.so
 
-current directory: /home/jelil/Documents/code/Microverse-Projects/ruby/rails/re-former/vendor/bundle/ruby/2.7.0/gems/nio4r-2.5.2/ext/nio4r
+current directory: /home/jelil/Documents/code/personal-projects/ruby/rails/re-former/vendor/bundle/ruby/2.7.0/gems/nio4r-2.5.2/ext/nio4r
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 nio4r_ext.so ./.gem.20200716-26465-ptqgdi
+/usr/bin/install -c -m 0755 nio4r_ext.so ./.gem.20200715-17782-ny5sga

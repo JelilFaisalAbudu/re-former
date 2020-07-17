@@ -1,11 +1,11 @@
-current directory: /home/jelil/Documents/code/Microverse-Projects/ruby/rails/re-former/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.4.6/ext/bootsnap
-/home/jelil/.rbenv/versions/2.7.0/bin/ruby -I /home/jelil/.rbenv/versions/2.7.0/lib/ruby/2.7.0 -r ./siteconf20200716-26465-tervvo.rb extconf.rb
+current directory: /home/jelil/Documents/code/personal-projects/ruby/rails/re-former/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.4.6/ext/bootsnap
+/home/jelil/.rbenv/versions/2.7.0/bin/ruby -I /home/jelil/.rbenv/versions/2.7.0/lib/ruby/2.7.0 -r ./siteconf20200715-17782-zrb39r.rb extconf.rb
 creating Makefile
 
-current directory: /home/jelil/Documents/code/Microverse-Projects/ruby/rails/re-former/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.4.6/ext/bootsnap
+current directory: /home/jelil/Documents/code/personal-projects/ruby/rails/re-former/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.4.6/ext/bootsnap
 make "DESTDIR=" clean
 
-current directory: /home/jelil/Documents/code/Microverse-Projects/ruby/rails/re-former/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.4.6/ext/bootsnap
+current directory: /home/jelil/Documents/code/personal-projects/ruby/rails/re-former/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.4.6/ext/bootsnap
 make "DESTDIR="
 compiling bootsnap.c
 bootsnap.c: In function ‘bs_cache_path’:
@@ -29,6 +29,6 @@ cc1: warning: unrecognized command line option ‘-Wno-constant-logical-operand�
 cc1: warning: unrecognized command line option ‘-Wno-cast-function-type’
 linking shared-object bootsnap/bootsnap.so
 
-current directory: /home/jelil/Documents/code/Microverse-Projects/ruby/rails/re-former/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.4.6/ext/bootsnap
+current directory: /home/jelil/Documents/code/personal-projects/ruby/rails/re-former/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.4.6/ext/bootsnap
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 bootsnap.so ./.gem.20200716-26465-25k64o/bootsnap
+/usr/bin/install -c -m 0755 bootsnap.so ./.gem.20200715-17782-1y5d6bw/bootsnap
